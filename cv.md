@@ -20,8 +20,8 @@
 * Version control: Git (remote service GitHub)
 
 ## Code Example
-```function multiply(a, b)
-{return a * b;}```
+`function multiply(a, b)`
+`{return a * b;}`
 
 ## Experience
 My work experience includes work as an economist, accountant, chief accountant, engineer for organization and rationing of labor
