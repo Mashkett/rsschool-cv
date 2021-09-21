@@ -2,4 +2,4 @@
  Markdown & Git
 https://github.com/Mashkett/rsschool-cv/blob/gh-pages/cv.md
 CV
-https://github.com/Mashkett/rsschool-cv/blob/gh-pages/index.html
+https://mashkett.github.io/rsschool-cv/
